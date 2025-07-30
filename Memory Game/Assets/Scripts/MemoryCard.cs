@@ -1,6 +1,8 @@
 using UnityEngine;
 public class MemoryCard : MonoBehaviour
 {
+    [SerializeField] private GameObject cardBack;
+
     private void Start()
     {
         
@@ -13,6 +15,9 @@ public class MemoryCard : MonoBehaviour
 
     private void OnMouseDown()
     {
-        Debug.Log("turn around");
+        if (cardBack.activeSelf)
+        {
+            cardBack.SetActive(false);
+        }
     }
 }

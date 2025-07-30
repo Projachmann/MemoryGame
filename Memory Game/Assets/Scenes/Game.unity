@@ -578,6 +578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0021c15caa7d4eb40ba15ab759001a1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cardBack: {fileID: 722360405}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
