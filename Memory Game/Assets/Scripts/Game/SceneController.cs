@@ -1,10 +1,13 @@
 using System.Collections;
 using UnityEngine;
+using TMPro;
+using UnityEngine.SceneManagement;
 
 public class SceneController : MonoBehaviour
 {
     [SerializeField] MemoryCard originalCard;
     [SerializeField] Sprite[] images;
+    [SerializeField] TMP_Text scoreText;
 
     private MemoryCard firstRevealed;
     private MemoryCard secondRevealed;
@@ -85,7 +88,7 @@ public class SceneController : MonoBehaviour
         if (firstRevealed.Id == secondRevealed.Id)
         {
             score++;
-            Debug.Log(score);
+            scoreText.text = "Score: " + score;
         }
         else
         {
@@ -99,8 +102,8 @@ public class SceneController : MonoBehaviour
         secondRevealed = null;
     }
 
-    void Update()
+    public void Restart()
     {
-        
+        SceneManager.LoadScene("Game");
     }
 }
