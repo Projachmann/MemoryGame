@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jachy\\Desktop\\Games\\Unity in Action\\MemoryGame\\Memory Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDB33564-B771-EF64-3140-AE2F72FC95A9}|Assembly-CSharp.csproj|c:\\users\\jachy\\desktop\\games\\unity in action\\memorygame\\memory game\\assets\\scripts\\game\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB33564-B771-EF64-3140-AE2F72FC95A9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDB33564-B771-EF64-3140-AE2F72FC95A9}|Assembly-CSharp.csproj|c:\\users\\jachy\\desktop\\games\\unity in action\\memorygame\\memory game\\assets\\scripts\\home\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDB33564-B771-EF64-3140-AE2F72FC95A9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\home\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\jachy\\Desktop\\Games\\Unity in Action\\MemoryGame\\Memory Game\\Assets\\Scripts\\Game\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\SceneController.cs",
+              "ToolTip": "C:\\Users\\jachy\\Desktop\\Games\\Unity in Action\\MemoryGame\\Memory Game\\Assets\\Scripts\\Game\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\SceneController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowG8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:33:58.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UIController.cs",
               "DocumentMoniker": "C:\\Users\\jachy\\Desktop\\Games\\Unity in Action\\MemoryGame\\Memory Game\\Assets\\Scripts\\Home\\UIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Home\\UIController.cs",
